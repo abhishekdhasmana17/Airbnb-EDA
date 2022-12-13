@@ -1,2 +1,2 @@
 # Airbnb-EDA
-Performing data analysis on Airbnb data.
+Performing Exploratory data analysis on Airbnb data.
